@@ -3,7 +3,7 @@
 Um dashboard moderno e responsivo para análise do mercado de tecnologia Java, desenvolvido em React com Tailwind CSS. Dados baseados no site "TIOBE Index".
 
 ## Link do Site
-[Dashboard](https://isadorameneghetti.github.io/java-dashboard)
+[Git Pages - Dashboard](https://isadorameneghetti.github.io/java-dashboard)
 
 ## Características
 
