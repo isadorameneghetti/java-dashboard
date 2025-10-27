@@ -137,7 +137,3 @@ Se você encontrar problemas ou tiver dúvidas:
 - [ ] Exportação para PDF/Excel
 - [ ] Análises preditivas
 - [ ] Internacionalização (i18n)
-
----
-
-**Desenvolvido com ❤️ pela Equipe Java Market Analysis**
