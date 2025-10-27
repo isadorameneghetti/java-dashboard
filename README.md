@@ -3,7 +3,7 @@
 Um dashboard moderno e responsivo para análise do mercado de tecnologia Java, desenvolvido em React com Tailwind CSS. Dados baseados no site "TIOBE Index".
 
 ## Link do Site
-![Dashboard](https://isadorameneghetti.github.io/java-dashboard)
+[Dashboard](https://isadorameneghetti.github.io/java-dashboard)
 
 ## Características
 
@@ -115,17 +115,3 @@ O projeto usa Tailwind CSS com configuração personalizável. Edite `tailwind.c
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## Problemas Conhecidos
-
-- [ ] Avisos do React Router v7 (inofensivos)
-- [ ] Otimização de performance para grandes datasets
-- [ ] Melhorias na acessibilidade
-
-## Suporte
-
-Se você encontrar problemas ou tiver dúvidas:
-
-1. Verifique os [Issues](https://github.com/seu-usuario/java-dashboard/issues)
-2. Crie um novo issue com detalhes do problema
-3. Entre em contato com a equipe de desenvolvimento
