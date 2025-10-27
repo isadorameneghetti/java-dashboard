@@ -32,7 +32,7 @@ Um dashboard moderno e responsivo para análise do mercado de tecnologia Java, d
 
 1. **Clone o repositório**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/isadorameneghetti/java-dashboard
 cd java-dashboard
 ```
 
