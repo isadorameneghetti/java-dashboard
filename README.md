@@ -129,11 +129,3 @@ Se você encontrar problemas ou tiver dúvidas:
 1. Verifique os [Issues](https://github.com/seu-usuario/java-dashboard/issues)
 2. Crie um novo issue com detalhes do problema
 3. Entre em contato com a equipe de desenvolvimento
-
-## Atualizações Futuras
-
-- [ ] Integração com APIs reais
-- [ ] Dashboard em tempo real
-- [ ] Exportação para PDF/Excel
-- [ ] Análises preditivas
-- [ ] Internacionalização (i18n)
